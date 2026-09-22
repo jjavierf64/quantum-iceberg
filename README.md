@@ -6,6 +6,45 @@ by Jose Javier Fernández [ jjavierf@proton.me ]
 
 Introducir a los estudiantes a las tecnologías cuánticas existentes y en desarrollo, centros de investigación, oportunidades, etc.
 
+## Quantum Iceberg
+![Quantum Iceberg](quantum-iceberg.png)
+
+Nomenclatura:
+
+- **Th** Teoría
+
+	- **CMP** Condensed Matter Physics
+
+	- **AQM** Advanced Quantum Mechanics
+
+	- **QOP** Quantum Optics
+
+	- **QIT** Quantum Information Theory
+
+- **Ex** Experimental
+
+	- **MBM** Many-Body & Materials
+
+	- **SCC** Superconducting Circuits
+
+	- **AIT** Atom and Ion Trapping
+
+	- **QPH** Quantum Photonics
+
+- **Tc** Tecnología
+
+	- **QCH** Quantum Computing Hardware
+
+	- **QCM** Quantum Communications
+
+	- **QSM** Quantum Sensing and Metrology
+
+	- **QAN** Quantum Annealing
+
+	- **QCA** Quantum Computing Algorithms
+
+
+
 ## Directorio
 
 ### Universidades y Programas
